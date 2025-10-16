@@ -56,6 +56,6 @@
     server: {
       open: true,
       port: 3000, // or your custom port
-      allowedHosts: ['theexperimenters.lvh.me'],
+      allowedHosts: ['theexperimenters.lvh.me', 'aashutoshbhattfractals.github.io'],
     },
   });
