@@ -13,6 +13,12 @@ interface TownhallRecord {
 
 const townhallRecords: TownhallRecord[] = [
   {
+    date: "Oct 14, 2025",
+    title: "General Updates",
+    summary: "Overall, the townhall focused on operational updates, employee engagement, and future plans regarding work policies and organizational growth.",
+    duration: "47 min",
+  },
+  {
     date: "Oct 10, 2025",
     title: "General Townhall Discussion",
     summary: "Leadership shared updates and addressed employee questions. Various topics relevant to the organization were discussed.",
